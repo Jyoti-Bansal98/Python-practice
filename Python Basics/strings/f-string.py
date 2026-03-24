@@ -30,3 +30,9 @@ print(f"{name:^10}")    ## centre align
 accuracy = 0.92345
 
 print(f"Model accuracy: {accuracy:.2%}")
+
+##
+name = "Python"
+version = 3.11
+
+print(f"{name} version {version}")

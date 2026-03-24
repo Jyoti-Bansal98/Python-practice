@@ -1,0 +1,22 @@
+1. Why Tuples Are Used for Returning Values
+
+Because tuples:
+
+✔ lightweight
+✔ fast
+✔ immutable
+
+Isliye functions me multiple return values ke liye tuples use hote hain.
+
+2. Important Python Insight ⚡
+
+Python me comma tuple create karta hai, brackets optional hote hain.
+
+Example:
+
+t = 10,20,30
+
+Ye bhi tuple hai.
+
+(10,20,30)
+

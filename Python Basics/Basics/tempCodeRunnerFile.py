@@ -15,6 +15,3 @@ for i in nums:
 
 
 print(total)
-print(maximum)
-print(sum(nums))
-print(even)
