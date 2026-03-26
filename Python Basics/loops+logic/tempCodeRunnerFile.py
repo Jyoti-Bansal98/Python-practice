@@ -1,6 +1,4 @@
-## nested loop
-n = 4
-for i in range(n):
-    for j in range(n):
-        if i>j:
-            print(i,j)
+for i in range(5):
+    if i == 2:
+        continue
+    print(i)
